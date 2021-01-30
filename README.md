@@ -1,4 +1,4 @@
-# Hethical hacking
+# Ethical hacking
 
 ### Description 
 
